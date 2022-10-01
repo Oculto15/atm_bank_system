@@ -11,9 +11,6 @@ namespace account {
         float accountBalance;
         int accountID;
         string accountName;
-        
-    public:
-
     public:
          Account();
         void accountSetup(int IDNum);
